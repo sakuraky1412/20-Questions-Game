@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question text="Is she a princess?">
+<answer useranswer="yes">
+<question text="Is she friends with seven dwarfs?">
+<answer useranswer="yes">
+<thing>Snow White</thing>
+</answer>
+<answer useranswer="no">
+<question text="Is she born in an underwater kingdom of Merfolk?">
+<answer useranswer="yes">
+<thing>Ariel</thing>
+</answer>
+<answer useranswer="no">
+<question text="Did she fight in a war?">
+<answer useranswer="yes">
+<thing>Mulan</thing>
+</answer>
+<answer useranswer="no">
+<question text="Did she lose a pair of glass slippers?">
+<answer useranswer="yes">
+<thing>Cinderella</thing>
+</answer>
+<answer useranswer="no">
+<question text="Did she fall down a rabbithole?">
+<answer useranswer="yes">
+<thing>Alice</thing>
+</answer>
+<answer useranswer="no">
+<question text="Does she have really really long hair?">
+<answer useranswer="yes">
+<thing>Rapunzel</thing>
+</answer>
+<answer useranswer="no">
+<question text="Did she sleep for a long time?">
+<answer useranswer="yes">
+<thing>Aurora</thing>
+</answer>
+<answer useranswer="no">
+<thing>Elsa</thing>
+</answer>
+</question>	
+</answer>
+</question>	
+</answer>
+</question>	
+</answer>
+</question>	
+</answer>
+</question>	
+</answer>
+</question>	
+</answer>
+</question>	
+</answer>
+<answer useranswer="no">
+<question text="Is he the the official mascot of The Walt Disney Company?">
+<answer useranswer="yes">
+<thing>Mickey Mouse</thing>
+</answer>
+<answer useranswer="no">
+<question text="Is he friends with Lilo?">
+<answer useranswer="yes">
+<thing>Stitch</thing>
+</answer>
+<answer useranswer="no">
+<question text="Is he a duck who typically wears a sailor shirt?">
+<answer useranswer="yes">
+<thing>Donald Duck</thing>
+</answer>
+<answer useranswer="no">
+<question text="Is he a tall dog with a Southern drawl?">
+<answer useranswer="yes">
+<thing>Goofy</thing>
+</answer>
+<answer useranswer="no">
+<question text="Is she a playful, musical and flirtatious flapper girl?">
+<answer useranswer="yes">
+<thing>Minnie Mouse</thing>
+</answer>
+<answer useranswer="no">
+<question text="Is she a fairy who is friends with Peter Pan?">
+<answer useranswer="yes">
+<thing>Tinkerbell</thing>
+</answer>
+<answer useranswer="no">
+<question text="Does he love honey?">
+<answer useranswer="yes">
+<thing>Winnie the Pooh</thing>
+</answer>
+<answer useranswer="no">
+<thing>Baymax</thing>
+</answer>
+</question>	
+</answer>
+</question>	
+</answer>
+</question>	
+</answer>
+</question>	
+</answer>
+</question>	
+</answer>
+</question>	
+</answer>
+</question>	
+</answer>
+</question>
